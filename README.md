@@ -10,9 +10,6 @@
 
 <h3 align="left">👩‍💻  Sobre mim</h3>
 
-###
-
-<p align="left">Tenho 24 anos, sou estudante da Graduação de Engenharia de Software na FIAP. Gosto muito da área backend e venho me dedicando bastante aos estudos com foco em JAVA.</p>
 
 ###
 
